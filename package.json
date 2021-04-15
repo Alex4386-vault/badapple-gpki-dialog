@@ -7,6 +7,9 @@
   "author": "Alex4386 <psh010209@gmail.com>",
   "license": "WTFPL",
   "dependencies": {
+    "fastify": "^3.14.2",
+    "fastify-cors": "^5.2.0",
+    "image-to-ascii": "^3.0.13",
     "typescript": "^4.0.5"
   },
   "devDependencies": {

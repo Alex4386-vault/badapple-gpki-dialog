@@ -116,3 +116,9 @@ dist
 # Windows
 ehthumbs.db
 Thumbs.db
+
+# images
+image/*.png
+
+# footage
+footage.mp4
