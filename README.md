@@ -5,8 +5,8 @@ You know that GPKI sucks right?
 Yes, me either. Let's make it better by playing Bad Apple on it.
 
 ## Demonstration
-<img width="1029" alt="image" src="https://user-images.githubusercontent.com/27724108/114867058-4a2c4980-9e2f-11eb-8f01-5cda2f3fbad4.png">
-Yes, You've seen it. Bad Apple Running on [Government Portal (gov.kr)](https://gov.kr).  
+<img width="1029" alt="image" src="https://user-images.githubusercontent.com/27724108/114867058-4a2c4980-9e2f-11eb-8f01-5cda2f3fbad4.png"><br>
+Yes, You've seen it. Bad Apple Running on <a href="https://gov.kr">South Korean Government Portal (정부24)</a>. <strike>very funny isn't it</strike>  
 
 [Buggy Demo available at here (YouTube)](https://www.youtube.com/watch?v=Z6ZeLVP_nHY)
 
